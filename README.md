@@ -16,5 +16,5 @@ A simple project using TypeScript + ESM + Express to:
 ## 📦 Scripts
 
 ```bash
-yarn dev        # Run Express server (http://localhost:3001/api/users)
+yarn dev        # Run Express server (http://localhost:2228/api/users)
 yarn test       # Run unit tests
